@@ -1,7 +1,6 @@
 # Ex2
 """
-     Escreva um programa que solicite 2 valores informados pelo usuário. O programa deve calcular e
-exibir:
+     Escreva um programa que solicite 2 valores informados pelo usuário. O programa deve calcular e exibir:
         A. a soma dos dois valores
         B. a multiplicação dos dois valores
 """
